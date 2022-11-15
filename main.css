@@ -116,12 +116,9 @@ main {
 .pAlert {
     color: red;
 }
-/* .todoItem li{
-    list-style: none;
-    border: 1px solid black;
-    border-radius: 10px;
-    padding: 10px;
-    margin-bottom: 5px;
-    box-shadow: 1px 1px 4px rgba(251, 187, 87, 255);
-    display: flex;
-}  */
+
+footer{
+	
+	position: fixed;
+	bottom: 0;
+}
